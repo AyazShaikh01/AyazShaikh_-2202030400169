@@ -8,3 +8,7 @@ This is my Repository, that has 2 folders in it. 1 containing Assignment_1 & Oth
 This Assignment contains a pdf file of the steps to how this GIT repository was Created. <br>
 There are Also files of THE FIGMA design, in the PNG/PDF & .fig's Format. to show you my own Portfolio Design. <br>
 There is also A txt file where there is a Figma_Prototype Link, where you can see my Design in Figma. <br>
+
+<br> **Assignmnet_2** <br>
+This Assignment contains the code files of the design made for Assignment 2. <br>
+These file also contains the Assests (images/ Project_images) that i made for this website. <br>
